@@ -1,1 +1,1 @@
-# lambda-studio.github.com
+# lambda-studio.github.io
